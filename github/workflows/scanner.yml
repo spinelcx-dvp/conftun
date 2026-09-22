@@ -1,0 +1,48 @@
+name: Config Scanner
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'   # هر ۱۰ دقیقه
+  workflow_dispatch:          # اجرای دستی
+
+permissions:
+  contents: write             # برای commit کردن نتایج
+
+concurrency:
+  group: config-scanner
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Scanner
+        run: python scanner.py
+
+      - name: Commit and Push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add results.json tested.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🤖 Auto scan: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
