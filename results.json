@@ -421,6 +421,14 @@
       "tested_at": "2026-09-22T18:51:06.602952"
     },
     {
+      "config": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#EPODONIOS",
+      "protocol": "vless",
+      "host": "169.40.42.235",
+      "port": 443,
+      "latency": 76,
+      "tested_at": "2026-09-22T19:03:49.162596"
+    },
+    {
       "config": "vless://19307550-126a-4b8b-a1a3-115197320370@web-production-6ffd7.up.railway.app:443?encryption=none&security=tls&sni=web-production-6ffd7.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=web-production-6ffd7.up.railway.app&path=/ws/19307550-126a-4b8b-a1a3-115197320370#EPODONIOS",
       "protocol": "vless",
       "host": "web-production-6ffd7.up.railway.app",
@@ -601,6 +609,14 @@
       "tested_at": "2026-09-22T18:51:06.602952"
     },
     {
+      "config": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.229:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#EPODONIOS",
+      "protocol": "vless",
+      "host": "169.40.42.229",
+      "port": 443,
+      "latency": 191,
+      "tested_at": "2026-09-22T19:03:49.162596"
+    },
+    {
       "config": "vmess://eyJhZGQiOiAiMTQ5Ljg4LjIzLjIwNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMTgwMDAiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=",
       "protocol": "vmess",
       "host": "149.88.23.207",
@@ -711,6 +727,14 @@
       "tested_at": "2026-09-22T18:51:06.602952"
     },
     {
+      "config": "ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#EPODONIOS",
+      "protocol": "ss",
+      "host": "84.247.155.196",
+      "port": 443,
+      "latency": 619,
+      "tested_at": "2026-09-22T19:03:49.162596"
+    },
+    {
       "config": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WjdHbDFCbk5HK3N6NXpOa0xEQWZNYS8ySnRwdlcvY2xmbEMwV2J6YzJpZz06MkZvZWdNck43QVFmNmdxcjJhMG03SGo2RlE2U203amY0cjNnM0lCK1RIQT0@nao2.iorqino.ir:2087#EPODONIOS",
       "protocol": "ss",
       "host": "nao2.iorqino.ir",
@@ -729,13 +753,29 @@
       "tls": "tls",
       "latency": 1413,
       "tested_at": "2026-09-22T18:51:06.602952"
+    },
+    {
+      "config": "vmess://eyJhZGQiOiAiODkuMjIzLjk1Ljc3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICIyMjMyNCIsICJwcyI6ICJFUE9ET05JT1MiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9",
+      "protocol": "vmess",
+      "host": "89.223.95.77",
+      "port": 22324,
+      "latency": 3482,
+      "tested_at": "2026-09-22T19:03:49.162596"
+    },
+    {
+      "config": "vless://1fac5e18-2ca8-4626-c299-1f3f21c6b55e@151.101.56.6:443?path=%2F%3F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#🏳️",
+      "protocol": "vless",
+      "host": "151.101.56.6",
+      "port": 443,
+      "latency": 4081,
+      "tested_at": "2026-09-22T19:03:49.162596"
     }
   ],
   "stats": {
-    "last_scan": "2026-09-22T18:51:06.602952",
-    "total_tested": 200,
-    "total_active": 73,
-    "new_this_run": 73,
-    "tested_this_run": 200
+    "last_scan": "2026-09-22T19:03:49.162596",
+    "total_tested": 300,
+    "total_active": 78,
+    "new_this_run": 5,
+    "tested_this_run": 100
   }
 }
