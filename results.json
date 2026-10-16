@@ -2091,6 +2091,14 @@
       "tested_at": "2026-10-15T06:40:44.746503"
     },
     {
+      "config": "vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&encryption=none&headerType=none&type=tcp&sni=45.138.100.248#filembad-273",
+      "protocol": "vless",
+      "host": "45.138.100.248",
+      "port": 10443,
+      "latency": 70,
+      "tested_at": "2026-10-16T23:57:21.882408"
+    },
+    {
       "config": "vless://f4e6476f-40d0-40cb-841f-cc2f6909ff20@104.21.23.72:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=calm-haze-d105.21-7cd.workers.dev&packetEncoding=xudp&encryption=none#filembad-450",
       "protocol": "vless",
       "host": "104.21.23.72",
@@ -3725,6 +3733,14 @@
       "tested_at": "2026-10-16T01:21:27.617587"
     },
     {
+      "config": "vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:2053?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&type=ws&allowInsecure=0&sni=lucasjow.us.ci#🏳️",
+      "protocol": "vless",
+      "host": "172.67.155.65",
+      "port": 2053,
+      "latency": 108,
+      "tested_at": "2026-10-16T23:57:21.882408"
+    },
+    {
       "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#EPODONIOS",
       "protocol": "vless",
       "host": "51.158.206.80",
@@ -4023,6 +4039,14 @@
       "port": 23576,
       "latency": 114,
       "tested_at": "2026-10-09T00:35:10.605452"
+    },
+    {
+      "config": "vmess://eyJhZGQiOiI2Ny4yMjAuOTUuMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiQ2hhbm5lbCBpZDogQENvbmZpZ1YyUmF5Tkcg8J+HuvCfh7giLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
+      "protocol": "vmess",
+      "host": "67.220.95.3",
+      "port": 18000,
+      "latency": 114,
+      "tested_at": "2026-10-16T23:57:21.882408"
     },
     {
       "config": "vless://fdc48be3-a615-41ac-8bd1-ed844c931048@104.21.58.45:443?encryption=none&security=tls&sni=edgetunnel-4uw.pages.dev&fp=unsafe&alpn=http%2F1.1&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=edgetunnel-4uw.pages.dev&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#patt_204",
@@ -4375,6 +4399,14 @@
       "port": 443,
       "latency": 122,
       "tested_at": "2026-10-16T10:36:40.205545"
+    },
+    {
+      "config": "vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#canfingV2rayNG-308",
+      "protocol": "vless",
+      "host": "137.184.218.169",
+      "port": 36925,
+      "latency": 122,
+      "tested_at": "2026-10-16T23:57:21.882408"
     },
     {
       "config": "vless://4a215f09-e1f1-46a6-8e2f-7fb096fa6b1f@38.77.133.202:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GjzyBnCFWt9D3gtFsMKpvqcmUUYqPA3zNP0o3aNcNSg&security=reality&sid=e70046c27dae6aa7&sni=www.apple.com&type=tcp#filembad-154",
@@ -6447,6 +6479,14 @@
       "port": 22266,
       "latency": 185,
       "tested_at": "2026-10-13T23:02:23.071008"
+    },
+    {
+      "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#canfingV2rayNG-139",
+      "protocol": "vless",
+      "host": "15.204.97.216",
+      "port": 23576,
+      "latency": 185,
+      "tested_at": "2026-10-16T23:57:21.882408"
     },
     {
       "config": "vless://d342d11e-d224-4463-b982-532309285094@ccc.010304.xyz:443?encryption=none&security=tls&sni=ccc.010304.xyz&fp=android&type=ws&host=ccc.010304.xyz&path=%2F#qol_177",
@@ -8567,6 +8607,22 @@
       "tested_at": "2026-10-11T13:38:07.089276"
     },
     {
+      "config": "ss://YWVzLTEyOC1nY206MmJmNTM2YTRiZDYwMDg1MTE3MzRhNTA1ZDI0OGRlMmM@86.106.84.194:13261#🇨🇭",
+      "protocol": "ss",
+      "host": "86.106.84.194",
+      "port": 13261,
+      "latency": 267,
+      "tested_at": "2026-10-16T23:57:21.882408"
+    },
+    {
+      "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#🇬🇬",
+      "protocol": "ss",
+      "host": "82.38.31.214",
+      "port": 8080,
+      "latency": 267,
+      "tested_at": "2026-10-16T23:57:21.882408"
+    },
+    {
       "config": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.223:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI#qoli_385",
       "protocol": "vless",
       "host": "169.40.42.223",
@@ -10587,6 +10643,14 @@
       "tested_at": "2026-10-16T10:36:40.205545"
     },
     {
+      "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#canfingV2rayNG-140",
+      "protocol": "vless",
+      "host": "51.158.206.93",
+      "port": 23576,
+      "latency": 335,
+      "tested_at": "2026-10-16T23:57:21.882408"
+    },
+    {
       "config": "vless://0774160b-be44-4781-aad7-1a1745a36659@51.68.215.88:443?security=reality&encryption=none&pbk=x-oA2H8zwILFq4PCZvvJPzUlawE2ADkVUXG3h9m2-hg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=6337fd42719a0912#🇫🇷",
       "protocol": "vless",
       "host": "51.68.215.88",
@@ -11941,6 +12005,14 @@
       "tested_at": "2026-10-01T02:19:28.876354"
     },
     {
+      "config": "vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@31.76.35.27:443?security=reality&encryption=none&pbk=P-r-oVr8MTTCILgRxk8YuB9OKVojYw3MkH_ERUXzX3s&host=%3FTELEGRAM--%40CONFIG7X--%40CONFIG7X--%40CONFIG7X&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=b76a6309#🇩🇪",
+      "protocol": "vless",
+      "host": "31.76.35.27",
+      "port": 443,
+      "latency": 377,
+      "tested_at": "2026-10-16T23:57:21.882408"
+    },
+    {
       "config": "vless://5b754a1a-11aa-4df9-a8ba-44af9a579fe1@2.56.172.228:8443?security=reality&encryption=none&pbk=MjRaYQ5TjfU2rfHxVQ2Sa4nXRHHvsMvi3DW-x09n8Ts&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=poland.b2ai.top#filembad-165",
       "protocol": "vless",
       "host": "2.56.172.228",
@@ -12155,6 +12227,14 @@
       "port": 1984,
       "latency": 382,
       "tested_at": "2026-10-14T01:35:30.467393"
+    },
+    {
+      "config": "vless://f9cb2991-ad4a-4a54-aeb3-55d56ac02a8e@147.45.222.137:443?security=reality&encryption=none&pbk=dZl5iJJCMOXR6cJY4M_PbyV2bFp15dhAkz95NCGLsCc&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=ger01.deflink.net#filembad-349",
+      "protocol": "vless",
+      "host": "147.45.222.137",
+      "port": 443,
+      "latency": 382,
+      "tested_at": "2026-10-16T23:57:21.882408"
     },
     {
       "config": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@23.81.36.65:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uk.nztvpn.com&pbk=UcFVpzbYTy8Iym6ZnCAtLQK-MeRg6wZuyni4xEOKG18&sid=0da7e14db353e7d0&type=tcp&headerType=none#filembad-448",
@@ -13863,6 +13943,14 @@
       "tested_at": "2026-10-14T23:36:20.167829"
     },
     {
+      "config": "vless://6338c01a-310e-42c3-bf4f-2a20e161054b@85.155.242.38:443?security=reality&encryption=none&pbk=mPzNFHO4pZMzFviRkIhRd7xDUz4dMHyI-flZLOrgDVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=hu1.aiage.work&sid=f8379ce795f2e5ed#🇭🇺",
+      "protocol": "vless",
+      "host": "85.155.242.38",
+      "port": 443,
+      "latency": 435,
+      "tested_at": "2026-10-16T23:57:21.882408"
+    },
+    {
       "config": "vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.211:2083?security=&encryption=none&fm=AhmadV2ray&type=grpc&serviceName=vless#filembad-367",
       "protocol": "vless",
       "host": "66.90.105.211",
@@ -15343,6 +15431,14 @@
       "tested_at": "2026-09-26T15:22:51.657558"
     },
     {
+      "config": "vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@185.200.199.199:8444?encryption=none&security=reality&sni=github.com&fp=chrome&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&sid=457fab2ac885dbe0&type=grpc&authority=&serviceName=GunService&mode=gun#qol_474",
+      "protocol": "vless",
+      "host": "185.200.199.199",
+      "port": 8444,
+      "latency": 469,
+      "tested_at": "2026-10-16T23:57:21.882408"
+    },
+    {
       "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#filembad-6",
       "protocol": "ss",
       "host": "102.133.165.160",
@@ -15861,6 +15957,14 @@
       "port": 443,
       "latency": 488,
       "tested_at": "2026-10-14T06:46:21.671149"
+    },
+    {
+      "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZEJzcEJjaHFwSW5PWkZL@20.164.209.198:443#filembad-10",
+      "protocol": "ss",
+      "host": "20.164.209.198",
+      "port": 443,
+      "latency": 488,
+      "tested_at": "2026-10-16T23:57:21.882408"
     },
     {
       "config": "vless://bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54@arcturus.yokkastars.com:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&pbk=w4AYHvQnQS6olDqoG9ptLOtgehaWOsv9HQhDax5bLA4&sid=db46e2946fc466fd&type=tcp&headerType=none#qoli_522",
@@ -16781,6 +16885,14 @@
       "port": 35108,
       "latency": 524,
       "tested_at": "2026-10-07T02:58:41.298265"
+    },
+    {
+      "config": "vless://185e2bb3-2934-48d0-bbd5-dd20d16e83ee@93.89.220.37:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ibm.com&pbk=lwKaUQ81wJUJRsqAPsfTPj5V_f9N50UYEwzRI_nuq2g&sid=e88cb983f3c97528&type=tcp&headerType=none#qol_396",
+      "protocol": "vless",
+      "host": "93.89.220.37",
+      "port": 443,
+      "latency": 524,
+      "tested_at": "2026-10-16T23:57:21.882408"
     },
     {
       "config": "vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?mode=gun&security=reality&encryption=none&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&fp=firefox&type=grpc&serviceName=grpc-common3&sni=www.nvidia.com&sid=52add08b86a5ccea#ProxyMtpVPN-258",
@@ -17749,6 +17861,14 @@
       "port": 8444,
       "latency": 566,
       "tested_at": "2026-10-15T06:40:44.746503"
+    },
+    {
+      "config": "vless://d342d11e-d224-4463-b982-532309285094@cf.877774.xyz:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🏳️",
+      "protocol": "vless",
+      "host": "cf.877774.xyz",
+      "port": 443,
+      "latency": 566,
+      "tested_at": "2026-10-16T23:57:21.882408"
     },
     {
       "config": "vless://79251d3c-aabc-475c-b598-67263479b382@31.56.222.61:41260?security=&encryption=none&headerType=&type=tcp#filembad-244",
@@ -18903,6 +19023,14 @@
       "tested_at": "2026-10-16T06:03:22.736614"
     },
     {
+      "config": "vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@153.80.241.206:8444?security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com#ProxyMtpVPN-339",
+      "protocol": "vless",
+      "host": "153.80.241.206",
+      "port": 8444,
+      "latency": 620,
+      "tested_at": "2026-10-16T23:57:21.882408"
+    },
+    {
       "config": "vless://b4090350-b91f-4920-b5c0-c3ffd2798534@176.114.86.163:8081?mode=gun&security=none&encryption=none&type=grpc#🇷🇺",
       "protocol": "vless",
       "host": "176.114.86.163",
@@ -19801,6 +19929,14 @@
       "tested_at": "2026-10-14T12:26:54.976894"
     },
     {
+      "config": "vless://05d7a479-a099-40cf-aecf-41aa934767b0@nl5.hap-plus.ru:8443?path=%2Fapi%2Fv1%2Fevents&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=nl5.hap-plus.ru&fp=firefox&type=ws&allowInsecure=0&sni=nl5.hap-plus.ru#🇳🇱",
+      "protocol": "vless",
+      "host": "nl5.hap-plus.ru",
+      "port": 8443,
+      "latency": 664,
+      "tested_at": "2026-10-16T23:57:21.882408"
+    },
+    {
       "config": "vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.206.152:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=firefox&type=tcp&sni=addons.mozilla.org#filembad-86",
       "protocol": "vless",
       "host": "118.167.206.152",
@@ -20337,6 +20473,14 @@
       "tested_at": "2026-10-14T23:36:20.167829"
     },
     {
+      "config": "vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?security=reality&encryption=none&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=144.48.11.97&sid=725e6ea0#filembad-137",
+      "protocol": "vless",
+      "host": "144.48.11.97",
+      "port": 43000,
+      "latency": 693,
+      "tested_at": "2026-10-16T23:57:21.882408"
+    },
+    {
       "config": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.244.38:9881?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#🇷🇺",
       "protocol": "vless",
       "host": "176.108.244.38",
@@ -20383,6 +20527,14 @@
       "port": 443,
       "latency": 697,
       "tested_at": "2026-10-15T01:53:58.308516"
+    },
+    {
+      "config": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?path=%2Fws%23TELEGRAM--pirozi_ArGaP%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=a.cwvps.eu.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#🏳️",
+      "protocol": "vless",
+      "host": "188.114.97.6",
+      "port": 443,
+      "latency": 697,
+      "tested_at": "2026-10-16T23:57:21.882408"
     },
     {
       "config": "vless://bda35755-c838-49c3-a19e-3712f2d54275@163.128.99.14:443?security=reality&encryption=none&pbk=-LuhwN_cSgNr7nYIfCcu_XAjviKVSGwVGHxmB-s1AD0&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=e3a4bdfe3d6fd8ec#filembad-332",
@@ -20711,6 +20863,14 @@
       "port": 443,
       "latency": 716,
       "tested_at": "2026-10-12T17:04:46.016066"
+    },
+    {
+      "config": "vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#ProxyMtpVPN-313",
+      "protocol": "vless",
+      "host": "43.174.193.1",
+      "port": 443,
+      "latency": 716,
+      "tested_at": "2026-10-16T23:57:21.882408"
     },
     {
       "config": "vless://280e6d2e-b93e-4f51-bc9e-bf2bb709c81c@ger-asl.jorzel.ir:9145?pbk=Fw1tpKBQ_bT_eSTbaCSYBthpXAQ76kujwfywvjgpUA0&sni=android.clients.google.com&type=tcp&security=reality&sid=5e06032a9c448538&fp=ios&headerType=none&encryption=none#filembad-119",
@@ -21585,6 +21745,14 @@
       "tested_at": "2026-09-22T22:08:47.854108"
     },
     {
+      "config": "vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@edge-lab-b.10media.top:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=swedenfeed&allowInsecure=0&sni=edge-lab-b.10media.top#🇸🇨",
+      "protocol": "vless",
+      "host": "edge-lab-b.10media.top",
+      "port": 443,
+      "latency": 777,
+      "tested_at": "2026-10-16T23:57:21.882408"
+    },
+    {
       "config": "vless://6ead3f4c-023f-4322-b5c4-ac4e327d259d@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#ProxyMtpVPN-241",
       "protocol": "vless",
       "host": "199.232.78.159",
@@ -22327,6 +22495,14 @@
       "port": 443,
       "latency": 833,
       "tested_at": "2026-10-02T21:02:22.124778"
+    },
+    {
+      "config": "vless://d1cafeeb-2861-4d1e-a462-38f16442f5b2@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=google.com#🏳️",
+      "protocol": "vless",
+      "host": "wwww.qarvian.ir",
+      "port": 443,
+      "latency": 834,
+      "tested_at": "2026-10-16T23:57:21.882408"
     },
     {
       "config": "vless://621bcb9e-7df5-427b-a9d4-6e87223c8bca@2.26.55.163:443?security=reality&encryption=none&pbk=0eWdILjmoRVSJFDMiQskgkKG2Fc4TEMZ3XEPJ8ez9Hw&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=specific3.kandnet.com#filembad-230",
@@ -23825,6 +24001,14 @@
       "tested_at": "2026-09-25T20:39:50.196270"
     },
     {
+      "config": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:55688?security=reality&encryption=none&pbk=KeV1nArisy7FO5DjqTSmn0hBnlNd38rzhbIMMpe-MBw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bilibili-vn.biliimg.com&sid=a46bb5972cf50671#filembad-153",
+      "protocol": "vless",
+      "host": "funagfrdfs.alixxplay.com",
+      "port": 55688,
+      "latency": 1041,
+      "tested_at": "2026-10-16T23:57:21.882408"
+    },
+    {
       "config": "vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@ops4asfseretuiyk.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ops4asfseretuiyk.localip.ir&type=ws&allowInsecure=0&sni=ops4asfseretuiyk.localip.ir#ProxyMtpVPN-296",
       "protocol": "vless",
       "host": "ops4asfseretuiyk.localip.ir",
@@ -24001,6 +24185,14 @@
       "tested_at": "2026-10-12T23:35:17.495361"
     },
     {
+      "config": "vless://d54a7512-dda3-4218-8ae7-c591d300fd7c@164.37.224.244:25239?security=reality&encryption=none&pbk=0hYbfdNYeWetabbW1wCcrwi0e1VQA45Jhgi42YxU5nk&headerType=&type=tcp&sni=www.microsoft.com&sid=9a382b227140e86f#🇳🇱",
+      "protocol": "vless",
+      "host": "164.37.224.244",
+      "port": 25239,
+      "latency": 1079,
+      "tested_at": "2026-10-16T23:57:21.882408"
+    },
+    {
       "config": "vmess://eyJhZGQiOiIxMjAuNDguMTMzLjE2MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmZGUxMGUzOS00OGJiLTRkY2YtYjNiYS03MWQ3MTEzMjNhNTQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTAwODYiLCJwcyI6IjEwMTEwQHByb3h5X29ubGluZV9uZXQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
       "protocol": "vmess",
       "host": "120.48.133.162",
@@ -24039,6 +24231,14 @@
       "port": 443,
       "latency": 1085,
       "tested_at": "2026-09-26T02:02:33.443619"
+    },
+    {
+      "config": "vless://a5db5ab5-8d28-49c0-ad55-0ad4724e4c0d@hoert1rert.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hoert1rert.localip.ir&type=ws&allowInsecure=0&sni=hoert1rert.localip.ir#🇩🇪",
+      "protocol": "vless",
+      "host": "hoert1rert.localip.ir",
+      "port": 2087,
+      "latency": 1085,
+      "tested_at": "2026-10-16T23:57:21.882408"
     },
     {
       "config": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.16.10.197:443?encryption=none&security=tls&sni=a.cwvps.eu.org&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=a.cwvps.eu.org&path=%2Fws#p_139",
@@ -24639,6 +24839,14 @@
       "port": 2443,
       "latency": 1193,
       "tested_at": "2026-10-16T01:21:27.617587"
+    },
+    {
+      "config": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:47672?security=reality&encryption=none&pbk=tBvlo8F8hKRXSK-EHRAfzEH-x3e4uvheGloO-9bPKx4&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=70ab6d813e#🇸🇬",
+      "protocol": "vless",
+      "host": "funagfrdfs.alixxplay.com",
+      "port": 47672,
+      "latency": 1193,
+      "tested_at": "2026-10-16T23:57:21.882408"
     },
     {
       "config": "vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sid=68a8&type=tcp&headerType=none#qoli_538",
@@ -25303,6 +25511,14 @@
       "port": 8765,
       "latency": 1379,
       "tested_at": "2026-09-28T07:54:19.498250"
+    },
+    {
+      "config": "vless://05d7a479-a099-40cf-aecf-41aa934767b0@nl5.hap-plus.ru:8443?path=%2Fapi%2Fv1%2Fevents&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=nl5.hap-plus.ru&fp=chrome&type=ws&allowInsecure=0&sni=nl5.hap-plus.ru#🇳🇱",
+      "protocol": "vless",
+      "host": "nl5.hap-plus.ru",
+      "port": 8443,
+      "latency": 1379,
+      "tested_at": "2026-10-16T23:57:21.882408"
     },
     {
       "config": "vless://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?encryption=none&security=tls&sni=edgetunnel-4uw.pages.dev&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=edgetunnel-4uw.pages.dev&path=%2Ffp%3Dchrome%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET%3Fed%3D512#🏳️",
@@ -27713,6 +27929,14 @@
       "port": 41705,
       "latency": 2095,
       "tested_at": "2026-10-13T11:18:43.953659"
+    },
+    {
+      "config": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#🇨🇦",
+      "protocol": "ss",
+      "host": "51.222.12.127",
+      "port": 445,
+      "latency": 2095,
+      "tested_at": "2026-10-16T23:57:21.882408"
     },
     {
       "config": "vless://dc9e93bc-b53a-11f1-91d3-52540030ba36@31.76.249.87:443?security=reality&encryption=none&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.akamai.com#🇺🇸",
@@ -32652,10 +32876,10 @@
     }
   ],
   "stats": {
-    "last_scan": "2026-10-16T21:46:37.302924",
-    "total_tested": 38700,
-    "total_active": 4063,
-    "new_this_run": 32,
+    "last_scan": "2026-10-16T23:57:21.882408",
+    "total_tested": 39000,
+    "total_active": 4091,
+    "new_this_run": 28,
     "tested_this_run": 300
   }
 }
